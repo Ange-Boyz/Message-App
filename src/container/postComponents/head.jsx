@@ -12,7 +12,7 @@ const PostForm = ({onAddPost}) => {
     }
 
     return (
-        <div className="bg-[#1a1a1e] w-[100%] h-28 p-4 rounded-2xl items-center flex justify-between">
+        <div className="bg-[#1a1a1e] w-[100%] h-20 p-4 rounded-2xl items-center flex justify-between">
             <div className="w-16 h-16 bg-white rounded-full overflow-hidden">
                 <img src="boy1.png" alt="" className="w-full" />
             </div>
@@ -32,9 +32,8 @@ const PostForm = ({onAddPost}) => {
                 
 
             </div>
-            <div className="files flex items-center trasition duration-300 hover:scale-125">
+            <div className="files  items-center trasition duration-300 hover:scale-125">
                 <img src="bxs-file-image.svg" alt="" />
-                <p className="text-white">Galery</p>
             </div>
         </div>
     )

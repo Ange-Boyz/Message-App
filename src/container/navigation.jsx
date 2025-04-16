@@ -16,25 +16,25 @@ const Navigation = () => {
                 <div className="navbar">
                     <ul className="flex md:space-x-10 text-white  ">
                         <li>
-                            <NavLink to="/PostContainer" className= {({isActive}) => isActive ? "bg-white rounded-xl md:flex items-center space-x-2 px-4 py-2 text-black block " : 
-                            "items-center space-x-2 px-4 py-2 hover:bg-white rounded-xl hover:text-black md:flex block" }>
-                                <img src="bxs-book-add.svg" alt="" className="m-auto md:m-0" />
+                            <NavLink to="/PostContainer" className= {({isActive}) => isActive ? "bg-white rounded-xl md:flex items-center space-x-1 px-3 py-1 text-black block " : 
+                            "items-center space-x-1 px-3 py-1 hover:bg-white rounded-xl hover:text-black md:flex block" }>
+                                <img src="bxs-book-add.svg" alt="" className="m-auto md:m-0 w-6" />
                                 <p className="      ">Home</p>
                             </NavLink>
                         </li>
 
                         <li>
-                            <NavLink to="/Friend" className= {({isActive}) => isActive ? "bg-white rounded-xl md:flex block items-center space-x-2 px-4 py-2 text-black" : 
-                            "items-center space-x-2 px-4 py-2 hover:bg-white rounded-xl hover:text-black md:flex block" }
+                            <NavLink to="/Friend" className= {({isActive}) => isActive ? "bg-white rounded-xl md:flex block items-center space-x-1 px-3 py-1 text-black" : 
+                            "items-center space-x-1 px-3 py-1 hover:bg-white rounded-xl hover:text-black md:flex block" }
                             >
-                                <img src="bxs-group.svg" alt="" />
+                                <img src="bxs-group.svg" alt="" className="w-6" />
                                 <p>Friend</p>
                             </NavLink>
                         </li>
 
                         <li>
-                            <NavLink to="#" className="md:flex block  items-center space-x-2 px-4 py-2 hover:bg-white rounded-xl hover:text-black">
-                                <img src="bxs-file-image.svg" alt="" />
+                            <NavLink to="#" className="md:flex block  items-center space-x-1 px-3 py-1 hover:bg-white rounded-xl hover:text-black">
+                                <img src="bxs-file-image.svg" alt="" className="w-6" />
                                 <p>Forum</p>
                             </NavLink>
                         </li>
