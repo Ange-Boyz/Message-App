@@ -66,12 +66,12 @@ export const CommentForm = ({ onSubmit }) => {
         <div className="">
             
         
-                <form onSubmit={handleSubmit} className="mt-4 flex space-x-5 bg-[#58585c]  p-2 rounded-2xl text-white ">
+                <form onSubmit={handleSubmit} className="mt-4 flex space-x-5 bg-[#58585c]  p-2  rounded-xl text-white ">
                 <input type="text" value={content}
                     onChange={(e) => setContent(e.target.value)}
                     placeholder="Add a comment..."
-                    className="w-full bg-none outline-none bg-[#58585c]  p-2" />
-                    <input type="submit" placeholder='send' className='text-blue-500'/>
+                    className="w-full bg-none outline-none bg-[#58585c]  " />
+                    <input type="submit" placeholder='send' className=''/>
             </form>
                
             
