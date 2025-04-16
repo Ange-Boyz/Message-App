@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1104px" preserveAspectRatio="none" style="width:1185px;height:1104px;background:#FFFFFF;" version="1.1" viewBox="0 0 1185 1104" width="1185px" zoomAndPan="magnify">
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="195.5898" x="488.0176" y="22.9951">EDMAPRA Class Diagram</text>        <!--class assessmentsofcompetence-->
+        <g id="elem_assessmentsofcompetence">
+            <rect codeLine="3" fill="#F1F1F1" height="129.4844" id="assessmentsofcompetence" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="222.4561" x="7" y="506.1569"/>
+            <ellipse cx="22" cy="522.1569" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M24.9688,527.7975 Q24.3906,528.0944 23.75,528.235 Q23.1094,528.3913 22.4063,528.3913 Q19.9063,528.3913 18.5781,526.7506 Q17.2656,525.0944 17.2656,521.9694 Q17.2656,518.8444 18.5781,517.1881 Q19.9063,515.5319 22.4063,515.5319 Q23.1094,515.5319 23.75,515.6881 Q24.4063,515.8444 24.9688,516.1413 L24.9688,518.86 Q24.3438,518.2819 23.75,518.0163 Q23.1563,517.735 22.5313,517.735 Q21.1875,517.735 20.5,518.8131 Q19.8125,519.8756 19.8125,521.9694 Q19.8125,524.0631 20.5,525.1413 Q21.1875,526.2038 22.5313,526.2038 Q23.1563,526.2038 23.75,525.9381 Q24.3438,525.6569 24.9688,525.0788 L24.9688,527.7975 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190.4561" x="36" y="527.0036">assessmentsofcompetence</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228.4561" y1="538.1569" y2="538.1569"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="15" y="548.8053"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123.416" x="27" y="555.152">assessmentId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="15" y="565.1022"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71.709" x="27" y="571.4489">typeId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="15" y="581.3991"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114.8848" x="27" y="587.7457">description: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="15" y="597.6959"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147.123" x="27" y="604.0426">difficultyLevel: enum</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="15" y="613.9928"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.5049" x="27" y="620.3395">skillId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228.4561" y1="627.6413" y2="627.6413"/>
+        </g>        <!--class assessmenttypes-->
+        <g id="elem_assessmenttypes">
+            <rect codeLine="11" fill="#F1F1F1" height="80.5938" id="assessmenttypes" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="190.0078" x="23.22" y="802.2669"/>
+            <ellipse cx="54.6261" cy="818.2669" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M57.5949,823.9075 Q57.0167,824.2044 56.3761,824.345 Q55.7355,824.5013 55.0324,824.5013 Q52.5324,824.5013 51.2042,822.8606 Q49.8917,821.2044 49.8917,818.0794 Q49.8917,814.9544 51.2042,813.2981 Q52.5324,811.6419 55.0324,811.6419 Q55.7355,811.6419 56.3761,811.7981 Q57.0324,811.9544 57.5949,812.2513 L57.5949,814.97 Q56.9699,814.3919 56.3761,814.1263 Q55.7824,813.845 55.1574,813.845 Q53.8136,813.845 53.1261,814.9231 Q52.4386,815.9856 52.4386,818.0794 Q52.4386,820.1731 53.1261,821.2513 Q53.8136,822.3138 55.1574,822.3138 Q55.7824,822.3138 56.3761,822.0481 Q56.9699,821.7669 57.5949,821.1888 L57.5949,823.9075 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121.5498" x="72.2719" y="823.1136">assessmenttypes</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="24.22" x2="212.2278" y1="834.2669" y2="834.2669"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="31.22" y="844.9153"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71.709" x="43.22" y="851.262">typeId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="24.22" x2="212.2278" y1="858.5638" y2="858.5638"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="31.22" y="869.2122"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164.0078" x="43.22" y="875.5589">typeName: varchar(50)</text>
+        </g>        <!--class comments-->
+        <g id="elem_comments">
+            <rect codeLine="16" fill="#F1F1F1" height="162.0781" id="comments" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167.0664" x="737.69" y="234.4769"/>
+            <ellipse cx="780.2565" cy="250.4769" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M783.2252,256.1175 Q782.6471,256.4144 782.0065,256.555 Q781.3658,256.7113 780.6627,256.7113 Q778.1627,256.7113 776.8346,255.0706 Q775.5221,253.4144 775.5221,250.2894 Q775.5221,247.1644 776.8346,245.5081 Q778.1627,243.8519 780.6627,243.8519 Q781.3658,243.8519 782.0065,244.0081 Q782.6627,244.1644 783.2252,244.4613 L783.2252,247.18 Q782.6002,246.6019 782.0065,246.3363 Q781.4127,246.055 780.7877,246.055 Q779.444,246.055 778.7565,247.1331 Q778.069,248.1956 778.069,250.2894 Q778.069,252.3831 778.7565,253.4613 Q779.444,254.5238 780.7877,254.5238 Q781.4127,254.5238 782.0065,254.2581 Q782.6002,253.9769 783.2252,253.3988 L783.2252,256.1175 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73.8076" x="800.3823" y="255.3236">comments</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="738.69" x2="903.7564" y1="266.4769" y2="266.4769"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="277.1253"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106.9482" x="757.69" y="283.472">commentId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="293.4222"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90.6445" x="757.69" y="299.7689">content: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="309.7191"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141.0664" x="757.69" y="316.0657">createdAt: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="326.0159"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131.8105" x="757.69" y="332.3626">editedAt: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="342.3128"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120.0254" x="757.69" y="348.6595">isDeleted: tinyint</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="358.6097"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.6699" x="757.69" y="364.9564">postId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="745.69" y="374.9066"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86.5703" x="757.69" y="381.2532">authorId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="738.69" x2="903.7564" y1="388.555" y2="388.555"/>
+        </g>        <!--class communities-->
+        <g id="elem_communities">
+            <rect codeLine="26" fill="#F1F1F1" height="113.1875" id="communities" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="166.041" x="1008.21" y="785.9769"/>
+            <ellipse cx="1042.8215" cy="801.9769" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M1045.7902,807.6175 Q1045.2121,807.9144 1044.5715,808.055 Q1043.9308,808.2113 1043.2277,808.2113 Q1040.7277,808.2113 1039.3996,806.5706 Q1038.0871,804.9144 1038.0871,801.7894 Q1038.0871,798.6644 1039.3996,797.0081 Q1040.7277,795.3519 1043.2277,795.3519 Q1043.9308,795.3519 1044.5715,795.5081 Q1045.2277,795.6644 1045.7902,795.9613 L1045.7902,798.68 Q1045.1652,798.1019 1044.5715,797.8363 Q1043.9777,797.555 1043.3527,797.555 Q1042.009,797.555 1041.3215,798.6331 Q1040.634,799.6956 1040.634,801.7894 Q1040.634,803.8831 1041.3215,804.9613 Q1042.009,806.0238 1043.3527,806.0238 Q1043.9777,806.0238 1044.5715,805.7581 Q1045.1652,805.4769 1045.7902,804.8988 L1045.7902,807.6175 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90.46" x="1061.1796" y="806.8236">communities</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1009.21" x2="1173.251" y1="817.9769" y2="817.9769"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1016.21" y="828.6253"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119.3828" x="1028.21" y="834.972">communityId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1016.21" y="844.9222"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114.8848" x="1028.21" y="851.2689">description: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1016.21" y="861.2191"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99.2305" x="1028.21" y="867.5657">postCount: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1009.21" x2="1173.251" y1="874.8675" y2="874.8675"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1016.21" y="885.5159"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140.041" x="1028.21" y="891.8626">name: varchar(100)</text>
+        </g>        <!--class communityposts-->
+        <g id="elem_communityposts">
+            <rect codeLine="33" fill="#F1F1F1" height="194.6719" id="communityposts" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167.0664" x="1007.69" y="473.5569"/>
+            <ellipse cx="1031.055" cy="489.5569" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M1034.0237,495.1975 Q1033.4456,495.4944 1032.805,495.635 Q1032.1644,495.7913 1031.4612,495.7913 Q1028.9612,495.7913 1027.6331,494.1506 Q1026.3206,492.4944 1026.3206,489.3694 Q1026.3206,486.2444 1027.6331,484.5881 Q1028.9612,482.9319 1031.4612,482.9319 Q1032.1644,482.9319 1032.805,483.0881 Q1033.4612,483.2444 1034.0237,483.5413 L1034.0237,486.26 Q1033.3987,485.6819 1032.805,485.4163 Q1032.2112,485.135 1031.5862,485.135 Q1030.2425,485.135 1029.555,486.2131 Q1028.8675,487.2756 1028.8675,489.3694 Q1028.8675,491.4631 1029.555,492.5413 Q1030.2425,493.6038 1031.5862,493.6038 Q1032.2112,493.6038 1032.805,493.3381 Q1033.3987,493.0569 1034.0237,492.4788 L1034.0237,495.1975 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116.4775" x="1046.9139" y="494.4036">communityposts</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1008.69" x2="1173.7564" y1="505.5569" y2="505.5569"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="516.2053"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.6699" x="1027.69" y="522.552">postId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="532.5022"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122.958" x="1027.69" y="538.8489">postContent: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="548.7991"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93.4951" x="1027.69" y="555.1457">likeCount: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="565.0959"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141.0664" x="1027.69" y="571.4426">createdAt: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="581.3928"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131.8105" x="1027.69" y="587.7395">editedAt: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="597.6897"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120.0254" x="1027.69" y="604.0364">isDeleted: tinyint</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="613.9866"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135.5088" x="1027.69" y="620.3332">commentCount: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="630.2834"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119.3828" x="1027.69" y="636.6301">communityId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="1015.69" y="646.5803"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86.5703" x="1027.69" y="652.927">authorId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1008.69" x2="1173.7564" y1="660.2288" y2="660.2288"/>
+        </g>        <!--class documentations-->
+        <g id="elem_documentations">
+            <rect codeLine="45" fill="#F1F1F1" height="96.8906" id="documentations" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="181.9209" x="224.27" y="52.4469"/>
+            <ellipse cx="255.7376" cy="68.4469" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M258.7064,74.0875 Q258.1283,74.3844 257.4876,74.525 Q256.847,74.6813 256.1439,74.6813 Q253.6439,74.6813 252.3158,73.0406 Q251.0033,71.3844 251.0033,68.2594 Q251.0033,65.1344 252.3158,63.4781 Q253.6439,61.8219 256.1439,61.8219 Q256.847,61.8219 257.4876,61.9781 Q258.1439,62.1344 258.7064,62.4313 L258.7064,65.15 Q258.0814,64.5719 257.4876,64.3063 Q256.8939,64.025 256.2689,64.025 Q254.9251,64.025 254.2376,65.1031 Q253.5501,66.1656 253.5501,68.2594 Q253.5501,70.3531 254.2376,71.4313 Q254.9251,72.4938 256.2689,72.4938 Q256.8939,72.4938 257.4876,72.2281 Q258.0814,71.9469 258.7064,71.3688 L258.7064,74.0875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113.3262" x="273.3971" y="73.2936">documentations</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="225.27" x2="405.1909" y1="84.4469" y2="84.4469"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="232.27" y="95.0953"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65.584" x="244.27" y="101.442">docId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="232.27" y="111.3922"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90.6445" x="244.27" y="117.7389">content: text</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="225.27" x2="405.1909" y1="125.0406" y2="125.0406"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="232.27" y="135.6891"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155.9209" x="244.27" y="142.0357">docTitle: varchar(100)</text>
+        </g>        <!--class learningcontent-->
+        <g id="elem_learningcontent">
+            <rect codeLine="51" fill="#F1F1F1" height="129.4844" id="learningcontent" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="153.709" x="264.37" y="506.1569"/>
+            <ellipse cx="284.2066" cy="522.1569" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M287.1754,527.7975 Q286.5972,528.0944 285.9566,528.235 Q285.316,528.3913 284.6129,528.3913 Q282.1129,528.3913 280.7847,526.7506 Q279.4722,525.0944 279.4722,521.9694 Q279.4722,518.8444 280.7847,517.1881 Q282.1129,515.5319 284.6129,515.5319 Q285.316,515.5319 285.9566,515.6881 Q286.6129,515.8444 287.1754,516.1413 L287.1754,518.86 Q286.5504,518.2819 285.9566,518.0163 Q285.3629,517.735 284.7379,517.735 Q283.3941,517.735 282.7066,518.8131 Q282.0191,519.8756 282.0191,521.9694 Q282.0191,524.0631 282.7066,525.1413 Q283.3941,526.2038 284.7379,526.2038 Q285.3629,526.2038 285.9566,525.9381 Q286.5504,525.6569 287.1754,525.0788 L287.1754,527.7975 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110.9609" x="299.2814" y="527.0036">learningcontent</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="265.37" x2="417.079" y1="538.1569" y2="538.1569"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="272.37" y="548.8053"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94.0352" x="284.37" y="555.152">contentId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="272.37" y="565.1022"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114.8848" x="284.37" y="571.4489">description: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="272.37" y="581.3991"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55.5625" x="284.37" y="587.7457">url: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="272.37" y="597.6959"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.5049" x="284.37" y="604.0426">skillId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="265.37" x2="417.079" y1="611.3444" y2="611.3444"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="272.37" y="621.9928"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127.709" x="284.37" y="628.3395">title: varchar(100)</text>
+        </g>        <!--class options-->
+        <g id="elem_options">
+            <rect codeLine="59" fill="#F1F1F1" height="113.1875" id="options" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="142.792" x="46.83" y="44.2969"/>
+            <ellipse cx="88.4828" cy="60.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M91.4516,65.9375 Q90.8735,66.2344 90.2328,66.375 Q89.5922,66.5313 88.8891,66.5313 Q86.3891,66.5313 85.061,64.8906 Q83.7485,63.2344 83.7485,60.1094 Q83.7485,56.9844 85.061,55.3281 Q86.3891,53.6719 88.8891,53.6719 Q89.5922,53.6719 90.2328,53.8281 Q90.8891,53.9844 91.4516,54.2813 L91.4516,57 Q90.8266,56.4219 90.2328,56.1563 Q89.6391,55.875 89.0141,55.875 Q87.6703,55.875 86.9828,56.9531 Q86.2953,58.0156 86.2953,60.1094 Q86.2953,62.2031 86.9828,63.2813 Q87.6703,64.3438 89.0141,64.3438 Q89.6391,64.3438 90.2328,64.0781 Q90.8266,63.7969 91.4516,63.2188 L91.4516,65.9375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51.5635" x="108.4057" y="65.1436">options</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="47.83" x2="188.622" y1="76.2969" y2="76.2969"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="54.83" y="86.9453"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84.7041" x="66.83" y="93.292">optionId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="54.83" y="103.2422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112.2529" x="66.83" y="109.5889">optionText: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="54.83" y="119.5391"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116.792" x="66.83" y="125.8857">isCorrect: tinyint</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="54.83" y="135.8359"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100.9189" x="66.83" y="142.1826">questionId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="47.83" x2="188.622" y1="149.4844" y2="149.4844"/>
+        </g>        <!--class questions-->
+        <g id="elem_questions">
+            <rect codeLine="66" fill="#F1F1F1" height="113.1875" id="questions" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="169.9854" x="33.24" y="258.9269"/>
+            <ellipse cx="80.0935" cy="274.9269" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M83.0623,280.5675 Q82.4841,280.8644 81.8435,281.005 Q81.2029,281.1613 80.4998,281.1613 Q77.9998,281.1613 76.6716,279.5206 Q75.3591,277.8644 75.3591,274.7394 Q75.3591,271.6144 76.6716,269.9581 Q77.9998,268.3019 80.4998,268.3019 Q81.2029,268.3019 81.8435,268.4581 Q82.4998,268.6144 83.0623,268.9113 L83.0623,271.63 Q82.4373,271.0519 81.8435,270.7863 Q81.2498,270.505 80.6248,270.505 Q79.281,270.505 78.5935,271.5831 Q77.906,272.6456 77.906,274.7394 Q77.906,276.8331 78.5935,277.9113 Q79.281,278.9738 80.6248,278.9738 Q81.2498,278.9738 81.8435,278.7081 Q82.4373,278.4269 83.0623,277.8488 L83.0623,280.5675 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.7783" x="100.5935" y="279.7736">questions</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="34.24" x2="202.2254" y1="290.9269" y2="290.9269"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="41.24" y="301.5753"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100.9189" x="53.24" y="307.922">questionId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="41.24" y="317.8722"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128.4678" x="53.24" y="324.2189">questionText: text</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="41.24" y="334.1691"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143.9854" x="53.24" y="340.5157">questionType: enum</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="41.24" y="350.4659"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123.416" x="53.24" y="356.8126">assessmentId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="34.24" x2="202.2254" y1="364.1144" y2="364.1144"/>
+        </g>        <!--class roles-->
+        <g id="elem_roles">
+            <rect codeLine="73" fill="#F1F1F1" height="80.5938" id="roles" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="185.5576" x="693.45" y="1016.9069"/>
+            <ellipse cx="764.9197" cy="1032.9069" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M767.8885,1038.5475 Q767.3104,1038.8444 766.6697,1038.985 Q766.0291,1039.1413 765.326,1039.1413 Q762.826,1039.1413 761.4979,1037.5006 Q760.1854,1035.8444 760.1854,1032.7194 Q760.1854,1029.5944 761.4979,1027.9381 Q762.826,1026.2819 765.326,1026.2819 Q766.0291,1026.2819 766.6697,1026.4381 Q767.326,1026.5944 767.8885,1026.8913 L767.8885,1029.61 Q767.2635,1029.0319 766.6697,1028.7663 Q766.076,1028.485 765.451,1028.485 Q764.1072,1028.485 763.4197,1029.5631 Q762.7322,1030.6256 762.7322,1032.7194 Q762.7322,1034.8131 763.4197,1035.8913 Q764.1072,1036.9538 765.451,1036.9538 Q766.076,1036.9538 766.6697,1036.6881 Q767.2635,1036.4069 767.8885,1035.8288 L767.8885,1038.5475 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34.1182" x="785.4197" y="1037.7536">roles</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="694.45" x2="878.0076" y1="1048.9069" y2="1048.9069"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="701.45" y="1059.5553"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.2588" x="713.45" y="1065.902">roleId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="694.45" x2="878.0076" y1="1073.2038" y2="1073.2038"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="701.45" y="1083.8522"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159.5576" x="713.45" y="1090.1989">roleName: varchar(50)</text>
+        </g>        <!--class skills-->
+        <g id="elem_skills">
+            <rect codeLine="78" fill="#F1F1F1" height="96.8906" id="skills" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="185.8037" x="248.33" y="794.1169"/>
+            <ellipse cx="319.7997" cy="810.1169" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M322.7685,815.7575 Q322.1904,816.0544 321.5497,816.195 Q320.9091,816.3513 320.206,816.3513 Q317.706,816.3513 316.3779,814.7106 Q315.0654,813.0544 315.0654,809.9294 Q315.0654,806.8044 316.3779,805.1481 Q317.706,803.4919 320.206,803.4919 Q320.9091,803.4919 321.5497,803.6481 Q322.206,803.8044 322.7685,804.1013 L322.7685,806.82 Q322.1435,806.2419 321.5497,805.9763 Q320.956,805.695 320.331,805.695 Q318.9872,805.695 318.2997,806.7731 Q317.6122,807.8356 317.6122,809.9294 Q317.6122,812.0231 318.2997,813.1013 Q318.9872,814.1638 320.331,814.1638 Q320.956,814.1638 321.5497,813.8981 Q322.1435,813.6169 322.7685,813.0388 L322.7685,815.7575 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34.3643" x="340.2997" y="814.9636">skills</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="249.33" x2="433.1337" y1="826.1169" y2="826.1169"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="256.33" y="836.7653"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.5049" x="268.33" y="843.112">skillId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="256.33" y="853.0622"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114.8848" x="268.33" y="859.4089">description: text</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="249.33" x2="433.1337" y1="866.7106" y2="866.7106"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="256.33" y="877.3591"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159.8037" x="268.33" y="883.7057">skillName: varchar(50)</text>
+        </g>        <!--class useractions-->
+        <g id="elem_useractions">
+            <rect codeLine="84" fill="#F1F1F1" height="113.1875" id="useractions" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="169.4316" x="803.51" y="514.2969"/>
+            <ellipse cx="843.9385" cy="530.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M846.9073,535.9375 Q846.3291,536.2344 845.6885,536.375 Q845.0479,536.5313 844.3448,536.5313 Q841.8448,536.5313 840.5166,534.8906 Q839.2041,533.2344 839.2041,530.1094 Q839.2041,526.9844 840.5166,525.3281 Q841.8448,523.6719 844.3448,523.6719 Q845.0479,523.6719 845.6885,523.8281 Q846.3448,523.9844 846.9073,524.2813 L846.9073,527 Q846.2823,526.4219 845.6885,526.1563 Q845.0948,525.875 844.4698,525.875 Q843.126,525.875 842.4385,526.9531 Q841.751,528.0156 841.751,530.1094 Q841.751,532.2031 842.4385,533.2813 Q843.126,534.3438 844.4698,534.3438 Q845.0948,534.3438 845.6885,534.0781 Q846.2823,533.7969 846.9073,533.2188 L846.9073,535.9375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80.9238" x="863.5893" y="535.1436">useractions</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="804.51" x2="971.9416" y1="546.2969" y2="546.2969"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="811.51" y="556.9453"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83.5283" x="823.51" y="563.292">actionId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="811.51" y="573.2422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.9707" x="823.51" y="579.5889">userId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="811.51" y="589.5391"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83.6855" x="823.51" y="595.8857">details: text</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="804.51" x2="971.9416" y1="603.1875" y2="603.1875"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="811.51" y="613.8359"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143.4316" x="823.51" y="620.1826">action: varchar(255)</text>
+        </g>        <!--class userprogress-->
+        <g id="elem_userprogress">
+            <rect codeLine="91" fill="#F1F1F1" height="129.4844" id="userprogress" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="189.29" x="452.58" y="506.1569"/>
+            <ellipse cx="497.1811" cy="522.1569" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M500.1498,527.7975 Q499.5717,528.0944 498.9311,528.235 Q498.2904,528.3913 497.5873,528.3913 Q495.0873,528.3913 493.7592,526.7506 Q492.4467,525.0944 492.4467,521.9694 Q492.4467,518.8444 493.7592,517.1881 Q495.0873,515.5319 497.5873,515.5319 Q498.2904,515.5319 498.9311,515.6881 Q499.5873,515.8444 500.1498,516.1413 L500.1498,518.86 Q499.5248,518.2819 498.9311,518.0163 Q498.3373,517.735 497.7123,517.735 Q496.3686,517.735 495.6811,518.8131 Q494.9936,519.8756 494.9936,521.9694 Q494.9936,524.0631 495.6811,525.1413 Q496.3686,526.2038 497.7123,526.2038 Q498.3373,526.2038 498.9311,525.9381 Q499.5248,525.6569 500.1498,525.0788 L500.1498,527.7975 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91.5879" x="517.6811" y="527.0036">userprogress</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="453.58" x2="640.87" y1="538.1569" y2="538.1569"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="460.58" y="548.8053"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101.4863" x="472.58" y="555.152">progressId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="460.58" y="565.1022"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163.29" x="472.58" y="571.4489">lastAccessed: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="460.58" y="581.3991"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.9707" x="472.58" y="587.7457">userId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="460.58" y="597.6959"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.5049" x="472.58" y="604.0426">skillId: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="453.58" x2="640.87" y1="611.3444" y2="611.3444"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="460.58" y="621.9928"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134.4492" x="472.58" y="628.3395">status: varchar(50)</text>
+        </g>        <!--class users-->
+        <g id="elem_users">
+            <rect codeLine="99" fill="#F1F1F1" height="194.6719" id="users" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="228.3232" x="672.07" y="745.2269"/>
+            <ellipse cx="763.0666" cy="761.2269" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1;"/>
+            <path d="M766.0353,766.8675 Q765.4572,767.1644 764.8166,767.305 Q764.176,767.4613 763.4728,767.4613 Q760.9728,767.4613 759.6447,765.8206 Q758.3322,764.1644 758.3322,761.0394 Q758.3322,757.9144 759.6447,756.2581 Q760.9728,754.6019 763.4728,754.6019 Q764.176,754.6019 764.8166,754.7581 Q765.4728,754.9144 766.0353,755.2113 L766.0353,757.93 Q765.4103,757.3519 764.8166,757.0863 Q764.2228,756.805 763.5978,756.805 Q762.2541,756.805 761.5666,757.8831 Q760.8791,758.9456 760.8791,761.0394 Q760.8791,763.1331 761.5666,764.2113 Q762.2541,765.2738 763.5978,765.2738 Q764.2228,765.2738 764.8166,765.0081 Q765.4103,764.7269 766.0353,764.1488 L766.0353,766.8675 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37.8301" x="783.5666" y="766.0736">users</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="673.07" x2="899.3932" y1="777.2269" y2="777.2269"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="787.8753"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70.9707" x="692.07" y="794.222">userId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="804.1722"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92.1826" x="692.07" y="810.5189">status: enum</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="820.4691"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.2588" x="692.07" y="826.8157">roleId: int</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="836.7659"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141.0664" x="692.07" y="843.1126">createdAt: datetime</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="853.0628"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145.6465" x="692.07" y="859.4095">updatedAt: datetime</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="673.07" x2="899.3932" y1="866.7113" y2="866.7113"/>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="877.3597"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163.2217" x="692.07" y="883.7064">fullName: varchar(100)</text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="893.6566"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170.5771" x="692.07" y="900.0032">username: varchar(100)</text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="909.9534"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138.9473" x="692.07" y="916.3001">email: varchar(100)</text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1;" width="6" x="680.07" y="926.2503"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202.3232" x="692.07" y="932.597">passwordHash: varchar(150)</text>
+        </g>        <!--link assessmentsofcompetence to skills-->
+        <g id="link_assessmentsofcompetence_skills">
+            <path codeLine="112" d="M171.08,635.8069 C211.13,684.2469 261.4864,745.133 297.8464,789.103 " fill="none" id="assessmentsofcompetence-to-skills" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="301.67,793.7269,299.0172,784.242,298.4837,789.8737,292.852,789.3401,301.67,793.7269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37.2227" x="238.23" y="711.2938">skillId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="271.4919" y="782.881">1..*</text>
+        </g>        <!--link assessmentsofcompetence to assessmenttypes-->
+        <g id="link_assessmentsofcompetence_assessmenttypes">
+            <path codeLine="113" d="M118.23,635.8069 C118.23,687.3569 118.23,752.2469 118.23,795.9369 " fill="none" id="assessmentsofcompetence-to-assessmenttypes" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="118.23,801.9369,122.23,792.9369,118.23,796.9369,114.23,792.9369,118.23,801.9369" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41.1265" x="119.23" y="711.2938">typeId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="93.401" y="791.3441">1..*</text>
+        </g>        <!--link comments to communityposts-->
+        <g id="link_comments_communityposts">
+            <path codeLine="115" d="M905.24,394.1869 C932.43,419.4269 962.67,447.6169 990.23,473.5569 C995.79,478.7869 997.1417,480.0731 1002.9017,485.5231 " fill="none" id="comments-to-communityposts" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1007.26,489.6469,1003.4717,480.5557,1003.6281,486.2104,997.9734,486.3668,1007.26,489.6469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40.1616" x="958.23" y="439.6238">postId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="976.6542" y="479.6471">1..*</text>
+        </g>        <!--link comments to users-->
+        <g id="link_comments_users">
+            <path codeLine="116" d="M763.92,396.8669 C750.13,420.4669 737.34,447.0869 730.23,473.5569 C707.77,557.1169 716.76,582.7669 730.23,668.2269 C734.21,693.5369 739.4651,714.4579 747.2751,739.0679 " fill="none" id="comments-to-users" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="749.09,744.7869,750.1803,734.9985,747.5776,740.0211,742.555,737.4184,749.09,744.7869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54.9263" x="731.23" y="575.4638">authorId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="722.5192" y="734.1274">1..*</text>
+        </g>        <!--link communityposts to communities-->
+        <g id="link_communityposts_communities">
+            <path codeLine="118" d="M1091.23,668.4869 C1091.23,707.7869 1091.23,745.8069 1091.23,779.6169 " fill="none" id="communityposts-to-communities" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1091.23,785.6169,1095.23,776.6169,1091.23,780.6169,1087.23,776.6169,1091.23,785.6169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85.395" x="1092.23" y="711.2938">communityId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="1066.8305" y="774.8366">1..*</text>
+        </g>        <!--link communityposts to users-->
+        <g id="link_communityposts_users">
+            <path codeLine="119" d="M1007.25,652.6869 C1001.52,657.9869 995.81,663.2069 990.23,668.2269 C961.65,693.9669 934.8004,717.2895 905.3604,742.3295 " fill="none" id="communityposts-to-users" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="900.79,746.2169,910.2372,743.4328,904.5987,742.9774,905.0541,737.3389,900.79,746.2169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54.9263" x="952.23" y="711.2938">authorId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="908.4728" y="736.9597">1..*</text>
+        </g>        <!--link learningcontent to skills-->
+        <g id="link_learningcontent_skills">
+            <path codeLine="121" d="M341.23,635.8069 C341.23,684.2469 341.23,743.7569 341.23,787.7269 " fill="none" id="learningcontent-to-skills" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="341.23,793.7269,345.23,784.7269,341.23,788.7269,337.23,784.7269,341.23,793.7269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37.2227" x="342.23" y="711.2938">skillId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="316.6151" y="782.881">1..*</text>
+        </g>        <!--link options to questions-->
+        <g id="link_options_questions">
+            <path codeLine="123" d="M118.23,157.7569 C118.23,188.8869 118.23,221.5269 118.23,252.6569 " fill="none" id="options-to-questions" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="118.23,258.6569,122.23,249.6569,118.23,253.6569,114.23,249.6569,118.23,258.6569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68.25" x="119.23" y="200.5438">questionId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="93.8303" y="247.8875">1..*</text>
+        </g>        <!--link questions to assessmentsofcompetence-->
+        <g id="link_questions_assessmentsofcompetence">
+            <path codeLine="125" d="M118.23,372.4369 C118.23,411.9369 118.23,458.9369 118.23,500.0869 " fill="none" id="questions-to-assessmentsofcompetence" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="118.23,506.0869,122.23,497.0869,118.23,501.0869,114.23,497.0869,118.23,506.0869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="89.1401" x="119.23" y="439.6238">assessmentId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="93.9744" y="495.2519">1..*</text>
+        </g>        <!--link useractions to users-->
+        <g id="link_useractions_users">
+            <path codeLine="127" d="M867.09,627.7669 C854.31,661.5569 839.7925,699.9449 824.9325,739.2349 " fill="none" id="useractions-to-users" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="822.81,744.8469,829.7352,737.8439,824.5788,740.1702,822.2525,735.0138,822.81,744.8469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40.4409" x="841.23" y="711.2938">userId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="801.653" y="734.1919">1..*</text>
+        </g>        <!--link userprogress to users-->
+        <g id="link_userprogress_users">
+            <path codeLine="129" d="M585.8,636.1069 C602.43,661.7669 622.95,690.9369 644.23,715.2269 C653.03,725.2869 658.3458,731.0959 668.2158,740.8659 " fill="none" id="userprogress-to-users" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="672.48,745.0869,668.8977,735.9126,668.9265,741.5694,663.2697,741.5982,672.48,745.0869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40.4409" x="645.23" y="711.2938">userId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="641.0659" y="735.1052">1..*</text>
+        </g>        <!--link userprogress to skills-->
+        <g id="link_userprogress_skills">
+            <path codeLine="130" d="M498.41,635.8069 C461.41,684.2469 415.0024,744.9889 381.4124,788.9589 " fill="none" id="userprogress-to-skills" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="377.77,793.7269,386.4122,789.0032,380.8053,789.7536,380.0549,784.1467,377.77,793.7269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37.2227" x="452.23" y="711.2938">skillId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="358.2935" y="782.881">1..*</text>
+        </g>        <!--link users to roles-->
+        <g id="link_users_roles">
+            <path codeLine="132" d="M786.23,940.2369 C786.23,967.1169 786.23,988.8269 786.23,1010.4169 " fill="none" id="users-to-roles" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="786.23,1016.4169,790.23,1007.4169,786.23,1011.4169,782.23,1007.4169,786.23,1016.4169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36.9941" x="787.23" y="982.9738">roleId</text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23.0356" x="761.4002" y="1005.7986">1..*</text>
+        </g>        <!--SRC=[hLNDYjmm3BxdASnU-WEpx1RcaaDXc2cqq9PIzWMCevanwzYfVxOTIj-zTXnx5CSPUkWX4CdI9-cp95jk1P0FXo-xRzztP2-eCUJ0wKdJlcdOAFeFZEb1MgEEJFK3M90CoE-6a0qw_TIrX4ixQkrb02ntO9ZcW-LAjiJ2hqdBZqVEdB2Np_02eYKWNJ-Uc6SkH0Buiymau9ifWp9MaB_I7bhoGZKxK_rw-_3c2k8h66kPl2SH0p0bVOKM9SeqK0lTpkiw_sDv3wCUEbvJStC0uLdoc9RBIy8Tb9d5eSwUbLvK6J9oabiEECUWkM1lEIlnyS7NkCvq2BrNBXHLZNK91YbScMTqBZaH_1aGvF-ZQRgH4hl6mGg3dM8kGD30GghAAsSTgTXJwFqAXVFxpwW2g9PSdgRZV3UZD6l05TpwrJWja5HlV3NWIgA48qRDamT1KDpibTR0x9pU7muCziz1qa4AKnfYNH4gg_teeIbUxeOSJ2kHsplyuo11lZ708qN9TyPNLYozw_ndJ6T0KuQhZn963ZQpvcCHAOLvjzscE9PoOMen1grEsdEI9cqIPmNujdLccRt7i3l6l7KOcDaWbPdLcoXOfS2bnz6LfEMk3QOhkmPwNsT5F_XmFvNkFb9pHiUfabHXxfEo0TRsY1kwXTwNzueSuCWb40qYZloP3wPPUxSsc_Vaxl7-_krTQgKsCVOlFkKZr4uFaASvlIp8kbYmxRHSgxRnWjgyrI8YygxWyZ43j1nl-2pnovLsYvecBI5aT5qPBLeNJNFLLucRSzlEzaJJu5ciP1zRDvhbSLgtMpDRrXSTaKdSKUtKddy1]--></g>
+</svg>

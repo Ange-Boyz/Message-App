@@ -1,0 +1,297 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="829px" preserveAspectRatio="none" style="width:2850px;height:829px;background:#FFFFFF;" version="1.1" viewBox="0 0 2850 829" width="2850px" zoomAndPan="magnify">
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="326.7852" x="1255.0578" y="22.9951">Use Case Diagram for EDMAPRA Platform</text>        <!--entity Admin-->
+        <g id="elem_Admin">
+            <ellipse cx="1650.6621" cy="51.2969" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M1650.6621,59.2969 L1650.6621,86.2969 M1637.6621,67.2969 L1663.6621,67.2969 M1650.6621,86.2969 L1637.6621,101.2969 M1650.6621,86.2969 L1663.6621,101.2969 " fill="none" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44.8643" x="1628.23" y="115.792">Admin</text>
+        </g>        <!--entity Instructor-->
+        <g id="elem_Instructor">
+            <ellipse cx="1657.6609" cy="329.5269" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M1657.6609,337.5269 L1657.6609,364.5269 M1644.6609,345.5269 L1670.6609,345.5269 M1657.6609,364.5269 L1644.6609,379.5269 M1657.6609,364.5269 L1670.6609,379.5269 " fill="none" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67.9219" x="1623.7" y="394.022">Instructor</text>
+        </g>        <!--entity Student-->
+        <g id="elem_Student">
+            <ellipse cx="1194.6557" cy="615.0669" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M1194.6557,623.0669 L1194.6557,650.0669 M1181.6557,631.0669 L1207.6557,631.0669 M1194.6557,650.0669 L1181.6557,665.0669 M1194.6557,650.0669 L1207.6557,665.0669 " fill="none" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55.1113" x="1167.1" y="679.562">Student</text>
+        </g>
+        <g id="elem_UC1">
+            <ellipse cx="1120.6576" cy="220.0584" fill="#F1F1F1" rx="72.4076" ry="16.8815" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99.2646" x="1068.0253" y="223.806">Manage Users</text>
+        </g>
+        <g id="elem_UC2">
+            <ellipse cx="1338.6591" cy="220.0587" fill="#F1F1F1" rx="78.8591" ry="18.1718" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115.7393" x="1278.6825" y="223.566">Manage Content</text>
+        </g>
+        <g id="elem_UC3">
+            <ellipse cx="1581.6557" cy="220.06" fill="#F1F1F1" rx="94.2657" ry="21.2531" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151.334" x="1505.9887" y="222.9067">Manage Assessments</text>
+        </g>
+        <g id="elem_UC4">
+            <ellipse cx="756.6625" cy="501.9474" fill="#F1F1F1" rx="111.3525" ry="24.6705" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188.8018" x="662.2616" y="504.7941">Create Assessment Phases</text>
+        </g>
+        <g id="elem_UC5">
+            <ellipse cx="1042.6553" cy="501.9479" fill="#F1F1F1" rx="126.1053" ry="27.6211" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220.3359" x="932.4874" y="504.7946">Grade and Review Submissions</text>
+        </g>
+        <g id="elem_UC6">
+            <ellipse cx="1422.6589" cy="501.9507" fill="#F1F1F1" rx="108.9689" ry="24.1938" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183.6475" x="1330.8352" y="504.7973">Set Up Practical Scenarios</text>
+        </g>
+        <g id="elem_UC7">
+            <ellipse cx="2029.6598" cy="220.0548" fill="#F1F1F1" rx="100.4398" ry="22.488" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165.0264" x="1947.1466" y="222.9015">Monitor Platform Usage</text>
+        </g>
+        <g id="elem_UC8">
+            <ellipse cx="728.6624" cy="791.8674" fill="#F1F1F1" rx="94.9024" ry="21.3805" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152.7559" x="652.2845" y="794.714">Enroll in Assessments</text>
+        </g>
+        <g id="elem_UC9">
+            <ellipse cx="1476.6577" cy="791.8684" fill="#F1F1F1" rx="109.7077" ry="24.3415" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185.2471" x="1384.0341" y="794.7151">Access Practical Scenarios</text>
+        </g>
+        <g id="elem_UC10">
+            <ellipse cx="2155.6555" cy="791.864" fill="#F1F1F1" rx="106.0355" ry="23.6071" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177.2764" x="2067.0173" y="794.7107">View Content Summaries</text>
+        </g>
+        <g id="elem_UC11">
+            <ellipse cx="116.6593" cy="791.8687" fill="#F1F1F1" rx="110.6593" ry="24.5319" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187.3047" x="23.0069" y="794.7154">Attempt Assessment Tests</text>
+        </g>
+        <g id="elem_UC12">
+            <ellipse cx="426.6588" cy="791.8666" fill="#F1F1F1" rx="147.9988" ry="31.9998" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="266.3145" x="293.5016" y="794.7133">Track Progress and Receive Feedback</text>
+        </g>
+        <g id="elem_UC13">
+            <ellipse cx="1746.6584" cy="501.9505" fill="#F1F1F1" rx="106.3684" ry="23.6737" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178.001" x="1657.6579" y="504.7972">Participate in Community</text>
+        </g>
+        <g id="elem_UC14">
+            <ellipse cx="1888.6617" cy="791.8712" fill="#F1F1F1" rx="93.7217" ry="21.1443" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150.1172" x="1813.6031" y="794.7179">Automatic Evaluation</text>
+        </g>
+        <g id="elem_UC15">
+            <ellipse cx="1065.6598" cy="791.8708" fill="#F1F1F1" rx="75.5698" ry="17.514" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107.4746" x="1008.9225" y="795.6184">Use Sandboxes</text>
+        </g>
+        <g id="elem_UC16">
+            <ellipse cx="1802.6555" cy="220.056" fill="#F1F1F1" rx="91.8455" ry="20.7691" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145.9063" x="1729.7024" y="222.9027">View Documentation</text>
+        </g>
+        <g id="elem_UC17">
+            <ellipse cx="2315.6598" cy="220.0568" fill="#F1F1F1" rx="107.8498" ry="23.97" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181.2207" x="2225.0495" y="222.9035">Manage Platform Settings</text>
+        </g>
+        <g id="elem_UC18">
+            <ellipse cx="2601.6642" cy="501.9477" fill="#F1F1F1" rx="101.2042" ry="22.6408" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166.708" x="2518.3102" y="504.7944">Automated Unit Testing</text>
+        </g>        <!--link Admin to UC1-->
+        <g id="link_Admin_UC1">
+            <path d="M1627.77,82.8169 C1524.66,87.0069 1106.6,106.5269 1068.66,149.0869 C1052.85,166.8269 1071.1211,185.6206 1091.3811,200.2106 " fill="none" id="Admin-to-UC1" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1096.25,203.7169,1091.2842,195.2115,1092.1926,200.795,1086.6092,201.7034,1096.25,203.7169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58.4111" x="1069.66" y="162.1538">Manages</text>
+        </g>        <!--link UC1 to Admin-->
+        <g id="link_UC1_Admin">
+            <path d="M1132.81,203.0569 C1146.25,186.6069 1169.51,161.6769 1195.66,149.0869 C1273.81,111.4769 1541.0156,89.7788 1621.9256,83.9388 " fill="none" id="UC1-to-Admin" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1627.91,83.5069,1618.6454,80.1652,1622.923,83.8668,1619.2213,88.1444,1627.91,83.5069" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108.2974" x="1196.66" y="162.1538">Admin Role Only</text>
+        </g>        <!--link Admin to UC2-->
+        <g id="link_Admin_UC2">
+            <path d="M1628.11,82.9369 C1559.91,86.4569 1358.13,100.8469 1318.66,149.0869 C1306.34,164.1469 1312.8686,181.3487 1322.5886,196.6887 " fill="none" id="Admin-to-UC2" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1325.8,201.7569,1324.3617,192.0136,1323.1238,197.5334,1317.6041,196.2955,1325.8,201.7569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="86.0361" x="1319.66" y="162.1538">Adds/Deletes</text>
+        </g>        <!--link UC2 to Admin-->
+        <g id="link_UC2_Admin">
+            <path d="M1367.44,202.7469 C1394.24,187.8569 1435.53,165.7169 1472.66,149.0869 C1527.22,124.6569 1587.9296,103.1391 1622.1496,91.4991 " fill="none" id="UC2-to-Admin" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1627.83,89.5669,1618.0213,88.6782,1623.0964,91.177,1620.5976,96.2521,1627.83,89.5669" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108.2974" x="1473.66" y="162.1538">Admin Role Only</text>
+        </g>        <!--link Admin to UC3-->
+        <g id="link_Admin_UC3">
+            <path d="M1627.94,104.6369 C1616.93,116.8569 1604.44,132.7469 1596.66,149.0869 C1589.24,164.6869 1586.2405,178.0292 1584.3305,192.3992 " fill="none" id="Admin-to-UC3" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1583.54,198.3469,1588.6909,189.9524,1584.1988,193.3905,1580.7607,188.8983,1583.54,198.3469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60.8105" x="1597.66" y="162.1538">Oversees</text>
+        </g>        <!--link UC3 to Admin-->
+        <g id="link_UC3_Admin">
+            <path d="M1625.48,200.9869 C1639.99,192.6369 1654.51,181.1669 1662.66,166.0869 C1670.31,151.9469 1670.6866,140.4173 1666.9766,125.1473 " fill="none" id="UC3-to-Admin" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1665.56,119.3169,1663.7979,129.0068,1666.7405,124.1755,1671.5717,127.1181,1665.56,119.3169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103.3843" x="1668.66" y="162.1538">Create, Manage</text>
+        </g>        <!--link Admin to UC7-->
+        <g id="link_Admin_UC7">
+            <path d="M1673.43,93.0569 C1709.13,110.2169 1780.69,143.5169 1843.66,166.0869 C1883.01,180.1969 1922.2811,191.5763 1958.1911,201.1163 " fill="none" id="Admin-to-UC7" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1963.99,202.6569,1956.3188,196.4802,1959.1576,201.3731,1954.2647,204.212,1963.99,202.6569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56.1895" x="1844.66" y="162.1538">Monitors</text>
+        </g>        <!--link UC7 to Admin-->
+        <g id="link_UC7_Admin">
+            <path d="M1995.57,198.5169 C1965.39,180.5869 1923.47,156.3169 1905.66,149.0869 C1823.16,115.5969 1724.7214,95.3204 1679.3514,86.9904 " fill="none" id="UC7-to-Admin" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1673.45,85.9069,1681.5797,91.4664,1678.3678,86.8098,1683.0244,83.5979,1673.45,85.9069" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="187.2368" x="1940.66" y="162.1538">Usage Reports and Statistics</text>
+        </g>        <!--link Admin to UC17-->
+        <g id="link_Admin_UC17">
+            <path d="M1673.36,82.6569 C1743.49,85.3969 1962.3,97.7469 2134.66,149.0869 C2151.62,154.1469 2154.33,159.2669 2170.66,166.0869 C2199.1,177.9769 2225.5953,187.8609 2252.3753,197.3609 " fill="none" id="Admin-to-UC17" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="2258.03,199.3669,2250.8852,192.5881,2253.3177,197.6952,2248.2106,200.1277,2258.03,199.3669" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="127.5181" x="2171.66" y="162.1538">Configures Settings</text>
+        </g>        <!--link UC17 to Admin-->
+        <g id="link_UC17_Admin">
+            <path d="M2318.27,195.9069 C2318.64,180.4169 2316.17,160.7869 2303.66,149.0869 C2256.62,105.1169 1789.7065,86.6626 1679.5165,82.8826 " fill="none" id="UC17-to-Admin" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1673.52,82.6769,1682.3776,86.9831,1678.5171,82.8483,1682.6518,78.9878,1673.52,82.6769" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="257.6514" x="2315.66" y="162.1538">Platform Configuration and Permissions</text>
+        </g>        <!--link Instructor to UC3-->
+        <g id="link_Instructor_UC3">
+            <path d="M1623.2,356.9769 C1579.58,353.3669 1505.99,339.9169 1471.66,291.0269 C1454.1,266.0269 1479.9717,249.8751 1513.7217,238.3551 " fill="none" id="Instructor-to-UC3" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1519.4,236.4169,1509.5904,235.5386,1514.6681,238.032,1512.1746,243.1097,1519.4,236.4169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="141.3877" x="1472.66" y="287.0938">Creates and Manages</text>
+        </g>        <!--link UC3 to Instructor-->
+        <g id="link_UC3_Instructor">
+            <path d="M1597.12,241.3869 C1604.11,251.0269 1612.23,262.8469 1618.66,274.0269 C1627.17,288.8269 1632.8715,300.3192 1639.4915,315.1292 " fill="none" id="UC3-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1641.94,320.6069,1641.919,310.758,1639.8996,316.0421,1634.6155,314.0227,1641.94,320.6069" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103.3843" x="1628.66" y="287.0938">Create, Manage</text>
+        </g>        <!--link Instructor to UC4-->
+        <g id="link_Instructor_UC4">
+            <path d="M1623.43,359.9769 C1463.2,359.3569 792.55,360.7969 730.66,427.3269 C717.92,441.0269 723.1338,456.3599 733.7238,472.1899 " fill="none" id="Instructor-to-UC4" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="737.06,477.1769,735.3804,467.4723,734.2798,473.0211,728.7311,471.9206,737.06,477.1769" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50.2544" x="731.66" y="440.3938">Creates</text>
+        </g>        <!--link UC4 to Instructor-->
+        <g id="link_UC4_Instructor">
+            <path d="M778.08,477.2569 C795.1,460.1569 820.5,438.2269 847.66,427.3269 C992.05,369.4169 1482.6302,361.4953 1617.5802,360.4053 " fill="none" id="UC4-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1623.58,360.3569,1614.548,356.4297,1618.5802,360.3973,1614.6126,364.4294,1623.58,360.3569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="166.0483" x="848.66" y="440.3938">Create, Organize Content</text>
+        </g>        <!--link Instructor to UC5-->
+        <g id="link_Instructor_UC5">
+            <path d="M1623.38,361.2269 C1498.15,365.4169 1070.58,382.8969 1030.66,427.3269 C1019.41,439.8469 1020.5293,453.0356 1026.4693,468.5056 " fill="none" id="Instructor-to-UC5" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1028.62,474.1069,1029.1281,464.2711,1026.8277,469.4391,1021.6597,467.1388,1028.62,474.1069" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53.7393" x="1031.66" y="440.3938">Reviews</text>
+        </g>        <!--link UC5 to Instructor-->
+        <g id="link_UC5_Instructor">
+            <path d="M1073.24,474.8569 C1094.2,458.4569 1123.42,438.3669 1152.66,427.3269 C1320.63,363.9069 1533.7502,358.8023 1617.2802,359.4223 " fill="none" id="UC5-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1623.28,359.4669,1614.3099,355.4002,1618.2801,359.4298,1614.2506,363.4,1623.28,359.4669" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="151.417" x="1153.66" y="440.3938">Reviews Practical Work</text>
+        </g>        <!--link Instructor to UC6-->
+        <g id="link_Instructor_UC6">
+            <path d="M1623.32,361.6669 C1545.02,365.8369 1357.03,380.6169 1318.66,427.3269 C1300.13,449.8969 1322.8083,466.4812 1354.4983,479.4712 " fill="none" id="Instructor-to-UC6" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1360.05,481.7469,1353.2396,474.6322,1355.4236,479.8505,1350.2053,482.0345,1360.05,481.7469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="177.3027" x="1319.66" y="440.3938">Sets Up Practical Scenarios</text>
+        </g>        <!--link UC6 to Instructor-->
+        <g id="link_UC6_Instructor">
+            <path d="M1454.71,478.5869 C1476.62,463.5769 1506.5,443.6469 1533.66,427.3269 C1563.35,409.4869 1592.7891,393.6295 1617.9291,380.5295 " fill="none" id="UC6-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1623.25,377.7569,1613.4202,378.3686,1618.8159,380.0674,1617.117,385.4631,1623.25,377.7569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="192.8862" x="1534.66" y="440.3938">Sets Up Real-World Scenarios</text>
+        </g>        <!--link Instructor to UC13-->
+        <g id="link_Instructor_UC13">
+            <path d="M1691.94,381.2969 C1707.81,392.8969 1725.39,408.7069 1735.66,427.3269 C1744.21,442.8269 1746.5554,456.8304 1747.0754,472.0704 " fill="none" id="Instructor-to-UC13" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1747.28,478.0669,1750.9708,468.9357,1747.1095,473.0698,1742.9754,469.2085,1747.28,478.0669" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="68.5991" x="1743.66" y="440.3938">Moderates</text>
+        </g>        <!--link UC13 to Instructor-->
+        <g id="link_UC13_Instructor">
+            <path d="M1791.04,480.0069 C1813.73,466.2969 1834.02,447.2769 1820.66,427.3269 C1792.05,384.6069 1736.7272,369.903 1697.9972,364.253 " fill="none" id="UC13-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1692.06,363.3869,1700.3883,368.6442,1697.0076,364.1086,1701.5432,360.728,1692.06,363.3869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="149.8999" x="1826.66" y="440.3938">Community Interaction</text>
+        </g>        <!--link Instructor to UC14-->
+        <g id="link_Instructor_UC14">
+            <path d="M1692.02,362.3869 C1767.6,367.9769 1944.71,385.3469 1984.66,427.3269 C2078.32,525.7669 2103.12,616.2069 2028.66,729.8669 C2012.82,754.0369 1990.7836,766.794 1964.1636,775.644 " fill="none" id="Instructor-to-UC14" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1958.47,777.5369,1968.2723,778.4933,1963.2147,775.9595,1965.7485,770.9018,1958.47,777.5369" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="187.4971" x="2071.66" y="572.6338">Oversees Evaluation Process</text>
+        </g>        <!--link UC14 to Instructor-->
+        <g id="link_UC14_Instructor">
+            <path d="M1951.03,775.7869 C1975.98,770.1669 2005.07,764.1169 2031.66,759.8669 C2095.2,749.7069 2276.58,777.6669 2319.66,729.8669 C2324.72,724.2569 2320.89,720.3269 2319.66,712.8669 C2307.95,641.8869 2314.27,614.3769 2267.66,559.5669 C2186.48,464.1169 2136.96,468.6469 2018.66,427.3269 C1902.81,386.8569 1763.0328,369.8578 1697.8628,363.6278 " fill="none" id="UC14-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1691.89,363.0569,1700.4685,367.8952,1696.8673,363.5327,1701.2298,359.9315,1691.89,363.0569" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="177.7344" x="2282.66" y="572.6338">Automated Review of Work</text>
+        </g>        <!--link Instructor to UC18-->
+        <g id="link_Instructor_UC18">
+            <path d="M1691.92,361.6069 C1821,367.2169 2277.67,389.3869 2417.66,427.3269 C2434.74,431.9569 2437.38,437.3869 2453.66,444.3269 C2485.16,457.7669 2515.405,469.4389 2543.935,480.0289 " fill="none" id="Instructor-to-UC18" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="2549.56,482.1169,2542.5145,475.235,2544.8725,480.3769,2539.7306,482.735,2549.56,482.1169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="152.7056" x="2454.66" y="440.3938">Configures Unit Testing</text>
+        </g>        <!--link UC18 to Instructor-->
+        <g id="link_UC18_Instructor">
+            <path d="M2612.86,479.1469 C2619.51,462.8069 2624.41,441.0069 2611.66,427.3269 C2547.8,358.8169 1861.4599,358.8705 1698.0699,359.8605 " fill="none" id="UC18-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1692.07,359.8969,1701.0941,363.8423,1697.0699,359.8666,1701.0456,355.8424,1692.07,359.8969" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="223.2407" x="2619.66" y="440.3938">Continuous Integration for Testing</text>
+        </g>        <!--link Student to UC8-->
+        <g id="link_Student_UC8">
+            <path d="M1166.7,647.2769 C1064.56,653.2369 715.85,676.1669 683.66,712.8669 C668.2,730.4969 681.9343,750.131 699.5843,766.771 " fill="none" id="Student-to-UC8" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="703.95,770.8869,700.1454,761.8026,700.3119,767.457,694.6575,767.6235,703.95,770.8869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43.748" x="684.66" y="725.9338">Enrolls</text>
+        </g>        <!--link UC8 to Student-->
+        <g id="link_UC8_Student">
+            <path d="M740.72,770.3769 C752.56,752.1969 772.36,726.4769 796.66,712.8669 C860.78,676.9569 1081.0319,655.3295 1160.6819,648.4995 " fill="none" id="UC8-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1166.66,647.9869,1157.3512,644.7704,1161.6783,648.4141,1158.0347,652.7412,1166.66,647.9869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="178.5659" x="797.66" y="725.9338">Register for an Assessment</text>
+        </g>        <!--link Student to UC9-->
+        <g id="link_Student_UC9">
+            <path d="M1222.62,651.8469 C1261.5,661.1569 1333.24,681.1869 1387.66,712.8669 C1413.23,727.7569 1433.9686,746.3031 1450.9186,763.4231 " fill="none" id="Student-to-UC9" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1455.14,767.6869,1451.6504,758.477,1451.6222,764.1337,1445.9654,764.1055,1455.14,767.6869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59.5029" x="1413.66" y="725.9338">Accesses</text>
+        </g>        <!--link UC9 to Student-->
+        <g id="link_UC9_Student">
+            <path d="M1485.87,767.2169 C1490.78,750.3169 1493.63,727.9669 1481.66,712.8669 C1449.39,672.1669 1293.8061,654.3324 1228.2961,648.4624 " fill="none" id="UC9-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1222.32,647.9269,1230.9271,652.7141,1227.3,648.3731,1231.6411,644.7461,1222.32,647.9269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="98.5347" x="1490.66" y="725.9338">Hands-On Labs</text>
+        </g>        <!--link Student to UC10-->
+        <g id="link_Student_UC10">
+            <path d="M1222.39,646.2169 C1349.13,648.7769 1873.66,662.2669 2028.66,712.8669 C2066.05,725.0769 2099.0173,746.6772 2123.5273,765.1372 " fill="none" id="Student-to-UC10" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="2128.32,768.7469,2123.5374,760.1372,2124.3261,765.7388,2118.7245,766.5275,2128.32,768.7469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37.9082" x="2067.66" y="725.9338">Views</text>
+        </g>        <!--link UC10 to Student-->
+        <g id="link_UC10_Student">
+            <path d="M2149.86,767.9069 C2143.96,749.7069 2132.89,725.3269 2113.66,712.8669 C2037.13,663.2869 1373.9591,648.8633 1228.4891,646.2833 " fill="none" id="UC10-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1222.49,646.1769,1231.4177,650.3358,1227.4892,646.2655,1231.5595,642.3371,1222.49,646.1769" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="178.2104" x="2132.66" y="725.9338">Access Content Summaries</text>
+        </g>        <!--link Student to UC11-->
+        <g id="link_Student_UC11">
+            <path d="M1166.61,646.3269 C996.81,650.1169 112.32,671.8169 73.66,712.8669 C58.6,728.8469 69.2906,746.8017 85.5306,763.4517 " fill="none" id="Student-to-UC11" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="89.72,767.7469,86.2993,758.5111,86.2288,764.1675,80.5724,764.097,89.72,767.7469" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59.8711" x="74.66" y="725.9338">Attempts</text>
+        </g>        <!--link UC11 to Student-->
+        <g id="link_UC11_Student">
+            <path d="M134.46,767.1769 C149.77,748.7969 173.62,724.5469 200.66,712.8669 C291.51,673.6069 1008.4325,651.0495 1160.6125,646.6695 " fill="none" id="UC11-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1166.61,646.4969,1157.4986,642.7575,1161.6121,646.6407,1157.7288,650.7541,1166.61,646.4969" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183.479" x="201.66" y="725.9338">Complete Assessment Tests</text>
+        </g>        <!--link Student to UC12-->
+        <g id="link_Student_UC12">
+            <path d="M1166.65,645.8969 C1031.66,647.0269 452.62,655.2469 399.66,712.8669 C387.73,725.8469 390.4684,739.1791 399.6784,754.9091 " fill="none" id="Student-to-UC12" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="402.71,760.0869,401.6144,750.2991,400.1837,755.7721,394.7107,754.3413,402.71,760.0869" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42.7007" x="400.66" y="725.9338">Tracks</text>
+        </g>        <!--link UC12 to Student-->
+        <g id="link_UC12_Student">
+            <path d="M450.88,760.1069 C466.1,743.1369 487.25,723.4069 510.66,712.8669 C631.02,658.6669 1048.2409,648.098 1160.9209,646.198 " fill="none" id="UC12-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1166.92,646.0969,1157.8538,642.2492,1161.9207,646.1812,1157.9887,650.248,1166.92,646.0969" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="158.5708" x="511.66" y="725.9338">Track and Get Feedback</text>
+        </g>        <!--link Student to UC13-->
+        <g id="link_Student_UC13">
+            <path d="M1222.63,636.5869 C1306.27,615.2569 1550.3361,553.0195 1672.3261,521.9095 " fill="none" id="Student-to-UC13" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1678.14,520.4269,1668.4307,518.7749,1673.2951,521.6624,1670.4076,526.5268,1678.14,520.4269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="76.7051" x="1521.66" y="572.6338">Participates</text>
+        </g>        <!--link UC13 to Student-->
+        <g id="link_UC13_Student">
+            <path d="M1657.48,515.0869 C1623.43,519.6869 1584.26,524.9269 1548.66,529.5669 C1443.38,543.3069 1410.47,520.7069 1311.66,559.5669 C1277.9,572.8469 1249.3795,594.142 1227.0595,613.532 " fill="none" id="UC13-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1222.53,617.4669,1231.9475,614.5842,1226.3046,614.1878,1226.701,608.5448,1222.53,617.4669" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="149.8999" x="1312.66" y="572.6338">Community Interaction</text>
+        </g>        <!--link Student to UC14-->
+        <g id="link_Student_UC14">
+            <path d="M1222.69,649.4369 C1288.51,658.3769 1457.98,682.5869 1597.66,712.8669 C1620.41,717.7969 1746.4217,752.0073 1824.6217,773.3473 " fill="none" id="Student-to-UC14" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1830.41,774.9269,1822.7805,768.6986,1825.5864,773.6106,1820.6744,776.4164,1830.41,774.9269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="147.6211" x="1661.66" y="725.9338">Submits for Evaluation</text>
+        </g>        <!--link UC14 to Student-->
+        <g id="link_UC14_Student">
+            <path d="M1876.52,770.7369 C1864.19,752.2669 1843.29,725.8869 1817.66,712.8669 C1711.2,658.8069 1335.289,648.197 1228.549,646.237 " fill="none" id="UC14-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1222.55,646.1269,1231.475,650.2914,1227.5492,646.2187,1231.6219,642.2928,1222.55,646.1269" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="177.7344" x="1842.66" y="725.9338">Automated Review of Work</text>
+        </g>        <!--link Student to UC15-->
+        <g id="link_Student_UC15">
+            <path d="M1166.84,645.3169 C1120.85,646.3469 1029.98,655.9369 988.66,712.8669 C971.11,737.0469 998.7436,758.1064 1026.8436,772.9364 " fill="none" id="Student-to-UC15" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1032.15,775.7369,1026.0575,767.9986,1027.728,773.4032,1022.3235,775.0737,1032.15,775.7369" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="106.5708" x="989.66" y="725.9338">Uses Sandboxes</text>
+        </g>        <!--link UC15 to Student-->
+        <g id="link_UC15_Student">
+            <path d="M1080.38,774.3069 C1101.33,750.7369 1136.1541,711.5516 1162.6841,681.7016 " fill="none" id="UC15-to-Student" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1166.67,677.2169,1157.7013,681.2867,1163.3484,680.9541,1163.6809,686.6012,1166.67,677.2169" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="245.8892" x="1135.66" y="725.9338">Isolated Environment for Safe Testing</text>
+        </g>        <!--link UC16 to Instructor-->
+        <g id="link_UC16_Instructor">
+            <path d="M1786.64,240.8569 C1774.57,255.3169 1757.32,275.1069 1740.66,291.0269 C1725.39,305.6369 1711.9877,316.8524 1696.5677,328.9024 " fill="none" id="UC16-to-Instructor" style="stroke:#181818;stroke-width:1;"/>
+            <polygon fill="#181818" points="1691.84,332.5969,1701.3945,330.207,1695.7797,329.5182,1696.4685,323.9034,1691.84,332.5969" style="stroke:#181818;stroke-width:1;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="192.0674" x="1758.66" y="287.0938">Detailed Guides and How-Tos</text>
+        </g>        <!--SRC=[VLPDJ-Cm4BtxLrYSjrf2MoWSLghQBY0jQaKfUtOJDskHs9Njb6L__SuuTk8aXGkqUS_Z-NZpKYjimUdESBfWy6SfMAvPIGzAqzNoQRvvdjDDmInyBmbXgONdywmKqdz-bCRg2Z_w1rjRPLnQGYh3KunuySGaozqLsbnGPkXkaGpGXP8MZddyQe3FZU76b409CSOjPw4vip67Rlu049YJbdclMSOfanbzvYV1t-cssfV26A5aO4zRzfPRkZlIZORIHCeAkasvP5gemBsEybHIOFsXML0lvErvDorl9RKg2YhacP9cBMsUfW1-SVLjott5Gdm3eQ2o15vJV78P1RMMbqSRD-g5c-Rw91hB2rpy1jUhN6CUTSTIBawS_kGysmCQJaN3sZ0DsOeZJWCgNAYohA0j7u4QpMnUMLKoODFLYHKLV58oqAA1eJ2tSFjU_MrBclPgNwgqmcewGQu76cf60tErGkPDl9j1MZoZEqZSjGUOWJWZn8cVZaO_y3kzetLiqtb-1S_dMMQ-Btd1RGyS0xW-mIxm7d23qMeLTO444PZlGUGLJAD9dv1s-wBWzJRKCmlP3OYJbZW4fm3M-t46l0OGCZ2VRCRmG39sXMLSdxyjcKGTYTI0wiCbE7DYrcr8F2f2l0DvBbBhdJCzv1QdvDQCzw7a4h1NLtyFm97xDHfWE7QtDmC4En3jnW373ZWdWhOwvssQq6VYQ60dJBiKXA0G4QurS-V_FolmzRKiFWWAycjytC5hNNppucdWQ0ndE9FFEMkTCod-DIPFK643jXTSfAdVIhyH5Do06_Jtp5an0bgHHGB4JOhBSKOCrAFIjjwABJe5g2L5yioHGvinZnmmhjqWM6pJ13NJ9Jz0E3DQI_gBxJ4O2ATBy3u-S6VYjDJbWbqUqIy6_aoSkBhasg2ncdjuImLF9aviWx2r2qCFeIxiBkYg8NP7zXbtqg-hyKd_8bM7CA_aZ1I-eazxeH-DAXnr9Kz2A-dwWCFOiWDlrXmTVdZFabic2ZXxNudCU-23UX-zE5qaNM4qxuDW9RNju9aDr-5d0N5-SwPJ4lAeL6LSgt9_6FFqAVu7]--></g>
+</svg>
