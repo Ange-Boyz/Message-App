@@ -28,7 +28,7 @@ const SignUp = () => {
 
                     <div className="">
                         <NavLink to="/Mainpage">
-                            <input type="submit" value="Sign Up" className="bg-blue-600 w-full rounded-full py-2 px-3 mt-6 mb-2 " />
+                            <input type="submit" value="Sign Up" className="bg-blue-500 w-full rounded-full py-2 px-3 mt-6 mb-2 " />
                         </NavLink>
                         <p>I already have an account
                             <NavLink to="/login"><span className="text-blue-500 underline ml-2">Login</span> </NavLink>
